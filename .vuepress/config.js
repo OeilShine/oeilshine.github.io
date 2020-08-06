@@ -1,4 +1,5 @@
 module.exports = {
+  "base": "oeilshine.github.io",
   "title": "oeilshine",
   "description": "my blog",
   "dest": "public",
