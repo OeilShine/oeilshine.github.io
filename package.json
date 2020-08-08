@@ -1,7 +1,7 @@
 {
   "name": "OeilShine",
   "version": "1.0.0",
-  "author": "reco_luan",
+  "author": "OeilShine",
   "scripts": {
     "dev": "vuepress dev .",
     "build": "vuepress build ."

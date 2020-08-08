@@ -1,6 +1,6 @@
 module.exports = {
   "title": "OeilShine",
-  "description": "My Blog",
+  "description": "分享勇气",
   "dest": "public",
   "head": [
     [
@@ -22,12 +22,12 @@ module.exports = {
   "themeConfig": {
     "nav": [
       {
-        "text": "Home",
+        "text": "采倩",
         "link": "/",
         "icon": "reco-home"
       },
       {
-        "text": "TimeLine",
+        "text": "时间线",
         "link": "/timeline/",
         "icon": "reco-date"
       },
@@ -65,11 +65,11 @@ module.exports = {
     "blogConfig": {
       "category": {
         "location": 2,
-        "text": "Category"
+        "text": "云笔记"
       },
       "tag": {
         "location": 3,
-        "text": "Tag"
+        "text": "标签"
       }
     },
     "friendLink": [

@@ -1,10 +1,10 @@
 ---
-title: 安装MediaWiki
+title: 搭建wiki知识库 MediaWiki
 date: 2020-08-07
 tags:
- - tag1
+ - 阿里云七天训练营
 categories:
- -  category1
+ -  后端笔记
 ---
 
 # 1. 安装运行环境

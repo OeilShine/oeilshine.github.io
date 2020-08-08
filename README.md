@@ -1,7 +1,7 @@
 ---
 home: true
-heroText: OeilShine的个人博客
-tagline: 缔造一个简单的世界
+heroText: 缔造简约世界
+tagline: 分享勇气
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',
