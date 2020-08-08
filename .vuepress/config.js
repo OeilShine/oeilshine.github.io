@@ -1,7 +1,6 @@
 module.exports = {
-  "base": "oeilshine.github.io",
-  "title": "oeilshine",
-  "description": "my blog",
+  "title": "OeilShine",
+  "description": "My Blog",
   "dest": "public",
   "head": [
     [
@@ -48,7 +47,7 @@ module.exports = {
         "items": [
           {
             "text": "GitHub",
-            "link": "https://github.com/recoluan",
+            "link": "https://github.com/OeilShine",
             "icon": "reco-github"
           }
         ]

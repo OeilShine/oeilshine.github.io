@@ -1,7 +1,7 @@
 ---
 home: true
 heroText: OeilShine的个人博客
-tagline: A simple and beautiful vuepress blog theme.
+tagline: 缔造一个简单的世界
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',
