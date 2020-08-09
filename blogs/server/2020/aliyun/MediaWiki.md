@@ -70,4 +70,4 @@ chown -R www /www/wwwroot /default
 4. # 最后
 
    下载 LocalSettings.php文件，然后将LocalSettings.php文件上传到网站的根目录即可。
-
+<Valine></Valine>

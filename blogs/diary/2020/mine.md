@@ -7,4 +7,6 @@ categories:
  -  杂谈
 ---
 
-first page in category1
+first page
+
+<Valine></Valine>

@@ -97,5 +97,19 @@ module.exports = {
   },
   "markdown": {
     "lineNumbers": true
-  }
+  },
+  plugins: [
+    [
+      '@vuepress/register-components',
+      {
+        componentsDir: './components'
+      }
+    ],
+    [
+      '@vuepress/google-analytics',
+      {
+        'ga': 'UA-174915541-1' // UA-00000000-0
+      }
+    ]
+  ]
 }
