@@ -1,10 +1,10 @@
 ---
-title: 给git初学者的常用手册
+title: vant安装使用步骤简化说明
 date: 2020-04-12
 tags:
- - git/github
+ - vue\vant
 categories:
- -  知识手册
+ -  前端笔记
 ---
 
 
