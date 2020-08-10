@@ -21,9 +21,9 @@ categories:
 ​	![在这里插入图片描述](https://img-blog.csdnimg.cn/20200810183441409.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NjI4NDMwMg==,size_16,color_FFFFFF,t_70)
 3. ### 将合适的EFI文件替换U盘的EFI文件，一般情况下替换config.plist文件即可（使用DiskGenius)
 
-
 ​	![在这里插入图片描述](https://img-blog.csdnimg.cn/20200810183516287.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NjI4NDMwMg==,size_16,color_FFFFFF,t_70)
 ​	
+
 4. ### 重启从U盘启动进入Clover页面
 
 5. ### 选择安装从U盘安装Mac
@@ -45,3 +45,5 @@ categories:
 12. ### 百度/问群
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200810183942849.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NjI4NDMwMg==,size_16,color_FFFFFF,t_70)
+
+<Valine></Valine>
