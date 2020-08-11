@@ -2,7 +2,7 @@
 title: 给git初学者的常用手册
 date: 2020-04-12
 tags:
- - git/github
+ - git\github
 categories:
  -  知识手册
 ---

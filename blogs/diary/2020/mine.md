@@ -1,8 +1,8 @@
 ---
 title: 世界，你好
-date: 2020-08-07
+date: 2020-08-06
 tags:
- - Hello
+ - 阿里云七天训练营
 categories:
  -  杂谈
 ---

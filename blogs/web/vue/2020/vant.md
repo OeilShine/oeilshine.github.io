@@ -1,6 +1,6 @@
 ---
 title: vant安装使用步骤简化说明
-date: 2020-04-12
+date: 2020-06-24
 tags:
  - vue\vant
 categories:
@@ -16,12 +16,14 @@ categories:
 
 2. ### 手动引入需要的组件（这里需要什么组件就引入什么）：
 	
-	在main.js 写入以下三条语句
-	
 	```
-import Button from 'vant/lib/button';
-	import 'vant/lib/button/style';
-	Vue.use(Button);
+	    在main.js 写入以下三条语句：
+	    
+	import Button from 'vant/lib/button';
+		import 'vant/lib/button/style';
+		Vue.use(Button);
+	
+	
 	```
 	
 	
