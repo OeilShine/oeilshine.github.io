@@ -18,6 +18,8 @@ module.exports = {
       }
     ],
     // by zhou
+    
+    // 鼠标点击效果
     // 网页标签栏图标
   ['link', { rel: 'icon', href: '/vuepress/favicon.ico' }],
   // 移动栏优化
@@ -35,6 +37,7 @@ module.exports = {
     "src": "/js/MouseClickEffect.js"
   }]
   ],
+
   "theme": "reco",
   "themeConfig": {
     "nav": [
@@ -44,7 +47,7 @@ module.exports = {
         "icon": "reco-home"
       },
       {
-        "text": "时间线",
+        "text": "时间轴",
         "link": "/timeline/",
         "icon": "reco-date"
       },
